@@ -1,11 +1,26 @@
+/* wildcard selector (applies for element on the page) */
+/* Asterisk wildcard selector to override default styles add ny brower*/
+* {
+    padding: 0;
+    margin: 0;
+    /* box-sizing property for all elements (later set width or height
+    to an element will applied to the entire elemnt */
+    box-sizing: border-box;
+
+}
+
+
+
+
+
 header {
-    background-color: black;
+    background-color: darkgray;
 }
 
 main {
-    background-color: blueviolet;
+    background-color: orange;
 }
 
 footer {
-    background-color: burlywood;
+    background-color: greenyellow;
 }
