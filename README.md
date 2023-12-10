@@ -17,18 +17,14 @@ screen shot show diff screens
      -  3
      -   screen shot
 
+* The header section
 
-* the header
+  * A
+  * B
+  * C
+  * screen shot
 
-       - A
-       - B
-       - C
-       -  screen shot
-       
-     
-
-
-* the about us section
+* The about us section
 
     - A
     - B
