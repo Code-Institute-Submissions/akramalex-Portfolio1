@@ -9,6 +9,15 @@
 
 }
 
+/* General styles -body */
+
+body {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    /* Generic style (text) */
+    color: #3a3a3a;
+}
 
 
 
@@ -19,6 +28,9 @@ header {
 
 main {
     background-color: orange;
+    
+    /* main take up the space */
+    flex: 1 0 auto;
 }
 
 footer {
