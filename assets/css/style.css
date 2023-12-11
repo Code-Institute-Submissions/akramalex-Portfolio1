@@ -34,10 +34,10 @@ body {
 header {
     background-color: #ffffff;
     position: fixed;
-    padding: 0 2rem;
+    padding: 0 1rem;
     z-index: 99;
     width: 100%;
-    box-shadow: 0 2px 2px #fafafa;
+
 }
 
 /* styling A under the header */
@@ -53,12 +53,48 @@ h1 {
     text-transform: uppercase;
     letter-spacing: 2px;
     word-spacing: 5px;
+
     color: #252525;
+    margin-bottom: 10px;
 
 }
 
+/* styling the menu under the head line  with id menu*/
+#menu {
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+    font-size: 110%;
+    margin-bottom: 1rem;
+    letter-spacing: 2px;
+
+    list-style-type: none;
+}
+
+#menu>li {
+    margin-bottom: 1em;
+}
+
+nav {
+    position: absolute;
+    background-color: #ffffff;
+    width: 100%;
+    left: 0;
+    padding: 0 1rem;
+
+
+
+}
+
+
+
+
+
+
+
+
 main {
-    background-color: orange;
+    background-color: black;
 
     /* main take up the space */
     flex: 1 0 auto;
@@ -67,4 +103,34 @@ main {
 
 footer {
     background-color: greenyellow;
+}
+
+
+
+/* media query tablet and larger  (768px and up ) */
+@media screen and (min-width:768px) {
+
+    #menu {
+        flex-direction: row;
+
+
+        justify-content: flex-end;
+        flex-wrap: wrap;
+
+
+
+
+    }
+
+
+    #menu>li {
+        margin-right: 2em;
+    }
+
+    nav {
+        padding-right: 50px;
+
+
+    }
+
 }
