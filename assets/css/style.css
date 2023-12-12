@@ -4,6 +4,7 @@ font-family: 'Oswald',
 sans-serif; */
 @import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;1,100;1,300;1,400;1,700;1,900&family=Oswald:wght@200;300;400;500;600&display=swap');
 
+
 /* wildcard selector (applies for element on the page) */
 /* Asterisk wildcard selector to override default styles add ny brower*/
 * {
@@ -132,10 +133,17 @@ main {
 }
 
 footer {
-    background-color: rgb(182, 141, 94);
+    background-color: #ffffff;
 }
 
+#social-media {
 
+    display: flex;
+    justify-content: space-evenly;
+    list-style-type: none;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
 
 /* media query tablet and larger  (980px and up ) */
 @media screen and (min-width:980px) {
