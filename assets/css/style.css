@@ -23,6 +23,7 @@ header {
     z-index: 99;
     width: 100%;
     font-weight: bolder;
+    position: fixed;
 
 
 
@@ -40,11 +41,16 @@ header a {
 
 
     letter-spacing: 3px;
+
 }
 
-h1 {
+h1,
+h2 {
     font-family: 'Lato',
         sans-serif;
+    color: #3a3a3a;
+    letter-spacing: 3px;
+    word-spacing: 4px;
 }
 
 #logo {
@@ -87,6 +93,9 @@ body {
 nav {
     margin-bottom: 30px;
 
+
+
+
 }
 
 
@@ -107,6 +116,8 @@ nav {
 
 #menu {
     list-style-type: none;
+
+
 }
 
 
@@ -120,9 +131,10 @@ nav {
 
 
 main {
-    background-color: green;
+
 
     /* main take up the space */
+    margin-top: 70px;
     flex: 1 0 auto;
 
     color: white;
@@ -131,6 +143,42 @@ main {
 
 
 }
+
+/* picture and h2 p in section 1 */
+#firsts {
+    display: flex;
+    justify-content: space-between;
+}
+
+#firsts img {
+    width: 275px;
+    height: 300px;
+    padding: 15px 5px;
+
+
+
+}
+
+#firsts p {
+    color: black;
+    font-family: 'Lato',
+        sans-serif;
+    font-size: 25px;
+    letter-spacing: 2px;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding: 10px 10px;
+}
+
+#cbh2 {
+    color: rgb(219, 126, 5);
+    word-spacing: 10px;
+    margin-left: 20px;
+    margin-right: 20px;
+    font-size: 40px;
+    padding: 10px 10px;
+}
+
 
 footer {
     background-color: rgb(219, 126, 5)
@@ -180,6 +228,10 @@ footer {
 
     }
 
+
+    #firsts img {
+        width: auto;
+    }
 
 
 
