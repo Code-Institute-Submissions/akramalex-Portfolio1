@@ -133,7 +133,7 @@ main {
 }
 
 footer {
-    background-color: #ffffff;
+    background-color: rgb(219, 126, 5)
 }
 
 #social-media {
@@ -141,8 +141,15 @@ footer {
     display: flex;
     justify-content: space-evenly;
     list-style-type: none;
-    margin-bottom: 20px;
-    margin-top: 20px;
+    padding: 20px 0;
+}
+
+/* the font awsome icon */
+#social-media i {
+    font-size: 160%;
+    padding: 5%;
+    color: black;
+
 }
 
 /* media query tablet and larger  (980px and up ) */
@@ -172,7 +179,6 @@ footer {
         flex-grow: 1;
 
     }
-
 
 
 
