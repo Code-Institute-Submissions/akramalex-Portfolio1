@@ -91,7 +91,7 @@ body {
 }
 
 nav {
-    margin-bottom: 30px;
+    margin-bottom: 15px;
 
 
 
@@ -134,7 +134,7 @@ main {
 
 
     /* main take up the space */
-    margin-top: 70px;
+    margin-top: 60px;
     flex: 1 0 auto;
 
     color: white;
