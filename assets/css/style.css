@@ -216,6 +216,23 @@ main {
     margin-left: 20px;
 }
 
+
+/* table */
+
+.table-day {
+    width: 250px;
+    padding: 20px 10px;
+    color: #3a3a3a;
+}
+
+th,
+td {
+    border-bottom: 1px solid black;
+
+}
+
+
+
 footer {
     background-color: burlywood;
     margin-top: 20px;
