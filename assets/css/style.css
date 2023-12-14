@@ -45,7 +45,8 @@ header a {
 }
 
 h1,
-h2 {
+h2,
+h3 {
     font-family: 'Lato',
         sans-serif;
     color: rgb(117, 49, 0);
@@ -62,10 +63,6 @@ h2 {
     color: #3a3a3a;
     letter-spacing: 3px;
     text-transform: uppercase;
-
-
-
-
 }
 
 
@@ -89,33 +86,12 @@ body {
     text-align: center;
 }
 
-.text-left {
-    text-align: left;
-}
-
 nav {
     margin-bottom: 15px;
 
-
-
-
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
 /* styling the menu under the head line i */
-
-
 
 #menu {
     list-style-type: none;
@@ -123,27 +99,12 @@ nav {
 
 }
 
-
-
-
-
-
-
-
-
-
-
 main {
-
-
     /* main take up the space */
     margin-top: 80px;
     flex: 1 0 auto;
 
     color: white;
-
-
-
 
 }
 
@@ -158,8 +119,6 @@ main {
     width: 275px;
     height: 300px;
     padding: 15px 5px;
-
-
 
 }
 
@@ -229,6 +188,37 @@ th,
 td {
     border-bottom: 1px solid black;
 
+}
+
+/* label and input */
+
+.signup-sec {
+    text-align: center;
+    margin: auto;
+    max-width: 600px;
+    margin-top: 5px;
+
+}
+
+
+
+label {
+    color: black;
+    display: block;
+    margin-bottom: 5px;
+    margin-top: 10px;
+
+}
+
+button {
+    display: block;
+    margin: auto;
+    margin-top: 15px;
+    border-radius: 20px;
+    width: 100px;
+    height: 30px;
+    background-color: burlywood;
+    color: black;
 }
 
 
