@@ -48,9 +48,12 @@ h1,
 h2 {
     font-family: 'Lato',
         sans-serif;
-    color: #3a3a3a;
+    color: rgb(117, 49, 0);
+    ;
     letter-spacing: 3px;
     word-spacing: 4px;
+    margin-bottom: 10px;
+
 }
 
 #logo {
@@ -134,7 +137,7 @@ main {
 
 
     /* main take up the space */
-    margin-top: 60px;
+    margin-top: 80px;
     flex: 1 0 auto;
 
     color: white;
@@ -147,7 +150,8 @@ main {
 /* picture and h2 p in section 1 */
 #firsts {
     display: flex;
-    justify-content: space-between;
+
+    flex-direction: column;
 }
 
 #firsts img {
@@ -179,9 +183,64 @@ main {
     padding: 10px 10px;
 }
 
+/* section about us */
+
+#about-ussec {
+    background-color: burlywood;
+}
+
+.middle-c {
+    color: rgb(117, 49, 0);
+    font-size: 20px;
+    letter-spacing: 3px;
+    padding: 10px 10px;
+    margin-top: 20px;
+}
+
+/* what we offer list */
+
+#we-offer {
+    padding: 10px 10px;
+    margin-left: 10px;
+    color: black;
+    letter-spacing: 3px;
+}
+
+#we-offer h5 {
+    font-size: 20px;
+    margin-bottom: 15px;
+
+}
+
+#we-offer li {
+    margin-left: 20px;
+}
 
 footer {
-    background-color: rgb(219, 126, 5)
+    background-color: burlywood;
+    margin-top: 20px;
+
+}
+
+.foot-div {
+    margin-top: 20px;
+    letter-spacing: 3px;
+    word-spacing: 4px;
+    padding: 10px 10px;
+    color: black;
+}
+
+.foot-div>h2 {
+    color: black;
+
+}
+
+footer>div>h3 {
+    margin-top: 20px;
+}
+
+footer>div>p {
+    margin-top: 20px;
 }
 
 #social-media {
@@ -190,6 +249,8 @@ footer {
     justify-content: space-evenly;
     list-style-type: none;
     padding: 20px 0;
+    margin-top: 20px;
+
 }
 
 /* the font awsome icon */
@@ -228,10 +289,22 @@ footer {
 
     }
 
+    /* first section for media */
+
+    #firsts {
+        flex-direction: row;
+        justify-content: space-around;
+
+    }
 
     #firsts img {
-        width: auto;
+        width: 80%;
+        height: 80%;
+        padding-left: 20px;
+        flex: 1 auto;
+
     }
+
 
 
 
