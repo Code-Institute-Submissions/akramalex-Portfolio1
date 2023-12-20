@@ -29,16 +29,17 @@ meeting times , pricing , contact informtaion and sign up form , This site is tr
   * This section provides the user with clear information about what the site is and who the clube it is for 
   ![](assets/images/sc1-3.png)
 
-* The about us section
+* The About Us 
 
-    - A
-    - B
-    - C
-    - screen shot
-*  the sign up form 
-     - A
-     - B
-     - C
+    - The About us section gives details about what the club offers their members , and has a table with the club meeting time.
+    - This seciion shows the user the important information they need to know  about the club : what they offer and when they are open for different age groups.
+  
+  ![](assets/images/sc1-4.png)
+
+*  The Sign up Form 
+     - The sign up section has a form to collect details from parents to they can sign up to the coding club.
+     - The Form collects the child's name , and Child's age , and parent/guardian's name , and an email address.
+     - The sign up form is valuable to the user as it gives them the ability to sign up to join the Coding Club .
      -  screen shot
 
 
