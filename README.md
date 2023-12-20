@@ -15,10 +15,11 @@ meeting times , pricing , contact informtaion and sign up form , This site is tr
   * Navigation
       - Featured at the top of the page , the navigttion shows the clube name in the left corner :CODING CLUBE that 
   links to the top of the page.
-   - The other navigation links are to the right About us , Sign up and Contact us which link to differen sections of the same page.
+      - The other navigation links are to the right About us , Sign up and Contact us which link to differen sections of the same page.
      -  The Navigation is in a front that looks like code , and a color that contrasts with the background.
      -  the navigation clearly tells the user the name of the club and the website and makes the diffrenet section of information easy to find .
-  ![](assets/images/nav.png)
+  ![](assets/images/nav.png)(large.png)
+
      
 
 * The header section
