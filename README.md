@@ -44,10 +44,10 @@ meeting times , pricing , contact informtaion and sign up form , This site is tr
 
 
 * The Contact Us section
-    - A
-    - B
-    - C
-    - Screen shot
+    - The contact us section encourages users to get in contact and provides a phone number , email address and street address where they can be found.
+    - The contact section inculdes social media icons to users can find the coding club on facebook , X and instagram.
+    - The contact section is valuable to the user as it gives them the ability to find and contact the Coding Clube if they need to.
+   ![](assets/images/sc1-6.png)
 
 
 
