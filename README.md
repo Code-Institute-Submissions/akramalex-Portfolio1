@@ -10,18 +10,15 @@ User for this website wil be able to find all the information they need to know 
 meeting times , pricing , contact informtaion and sign up form , This site is trageted towards parents of children who want to learn to code 
 ![](assets/images/SC1-1.jpg)
 
-
-
-
-
-
 ## Features
 
   * Navigation
-      - 1
-      - 2
-     -  3
-     -   screen shot
+      - Featured at the top of the page , the navigttion shows the clube name in the left corner :CODING CLUBE that 
+  links to the top of the page.
+   - The other navigation links are to the right About us , Sign up and Contact us which link to differen sections of the same page.
+     -  The Navigation is in a front that looks like code , and a color that contrasts with the background.
+     -  the navigation clearly tells the user the name of the club and the website and makes the diffrenet section of information easy to find .
+     
 
 * The header section
 
