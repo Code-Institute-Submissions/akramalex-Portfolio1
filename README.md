@@ -22,12 +22,12 @@ meeting times , pricing , contact informtaion and sign up form , This site is tr
 
      
 
-* The header section
+* The header 
 
-  * A
-  * B
-  * C
-  * screen shot
+  * The header shows the name of the club , using the other color chosen : dark orange and continuing the computre code font theme
+  * The header explaing the club is for kids aged 8 to 18
+  * This section provides the user with clear information about what the site is and who the clube it is for 
+  ![](assets/images/SC1-3.png)
 
 * The about us section
 
