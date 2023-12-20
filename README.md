@@ -40,10 +40,10 @@ meeting times , pricing , contact informtaion and sign up form , This site is tr
      - The sign up section has a form to collect details from parents to they can sign up to the coding club.
      - The Form collects the child's name , and Child's age , and parent/guardian's name , and an email address.
      - The sign up form is valuable to the user as it gives them the ability to sign up to join the Coding Club .
-     -  screen shot
+     ![](assets/images/sc1-5.png)
 
 
-* the contact us section
+* The Contact Us section
     - A
     - B
     - C
