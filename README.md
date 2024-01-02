@@ -138,7 +138,7 @@ No unfixed bugs were identified.
 
   ### Content
   
-  * The Code to make the social media links was taken from the CI [Love Runing](https://akramalex.github.io/LOVE-RUNING/)project.
+  * The Code to make the social media links was taken from the CI [Love Runing](https://akramalex.github.io/LOVE-RUNING/) project.
 
 ### Media
 
