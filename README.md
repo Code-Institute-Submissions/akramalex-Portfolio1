@@ -116,4 +116,32 @@ meeting times , pricing , contact informtaion and sign up form , This site is tr
       
 ![](assets/images/light-house.png)
 
+## Unfixed Bugs
+
+No unfixed bugs were identified.
+
+
+## Deployment 
+
+* The Site was deployed to GitHub pages. The Steps to deploy are as follows:
+  
+  - In the GitHub repository. navigate to the setting tab.
+
+  - From the source section drop-down menu, select the Master Branch.
+
+  * Once the master branch has been selected, the page provides the link to the completed website.
+  
+  The live link can be found here- [Coding Club.](https://akramalex.github.io/Portfolio1/)
+
+
+  ## Credits
+
+  ### Content
+  
+  * The Code to make the social media links was taken from the CI [Love Runing](https://akramalex.github.io/LOVE-RUNING/) project.
+
+### Media
+
+* The image in the header was taken from [pexels](https://www.pexels.com/)
+
 
