@@ -131,17 +131,17 @@ No unfixed bugs were identified.
 
   * Once the master branch has been selected, the page provides the link to the completed website.
   
-  The live link can be found here- [Coding Club.](https://akramalex.github.io/Portfolio1/)
+  The live link can be found here- [ Coding Club ](https://akramalex.github.io/Portfolio1/)
 
 
   ## Credits
 
   ### Content
   
-  * The Code to make the social media links was taken from the CI [Love Runing](https://akramalex.github.io/LOVE-RUNING/) project.
+  * The Code to make the social media links was taken from the CI [ Love Runing ](https://akramalex.github.io/LOVE-RUNING/) project.
 
 ### Media
 
-* The image in the header was taken from [pexels](https://www.pexels.com/)
+* The image in the header was taken from [ pexels ](https://www.pexels.com/)
 
 
