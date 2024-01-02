@@ -1,6 +1,6 @@
 # Codeing Club
 
-## Welcome ! [View the live project here .](https://akramalex.github.io/Portfolio1/){:target="_blank"}
+## Welcome ! [View the live project here .](https://akramalex.github.io/Portfolio1/)
 
 The Coding Clube website is a landing page for parents and children looking for a fun coding club for kids aged 8 to 18. 
 The Coding Clube offers fun activites for kids to lear how to code from a young age.
@@ -138,10 +138,10 @@ No unfixed bugs were identified.
 
   ### Content
   
-  * The Code to make the social media links was taken from the CI [Love Runing](https://akramalex.github.io/LOVE-RUNING/){:target="_blank"} project.
+  * The Code to make the social media links was taken from the CI [Love Runing](https://akramalex.github.io/LOVE-RUNING/)project.
 
 ### Media
 
-* The image in the header was taken from [pexels](https://www.pexels.com/){:target="_blank"}
+* The image in the header was taken from [pexels](https://www.pexels.com/)
 
 
