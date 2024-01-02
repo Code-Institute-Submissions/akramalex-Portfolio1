@@ -28,7 +28,7 @@ meeting times , pricing , contact informtaion and sign up form , This site is tr
   
   ![](assets/images/sc1-2.jpg )
 
-     
+
 
 * The header 
 
@@ -104,5 +104,7 @@ meeting times , pricing , contact informtaion and sign up form , This site is tr
     -No errors were found when passing through the official (jigsaw)validator.
 
 * Accessibility 
-      -i confirmed that the colors and fonts chosen are easy to read and accessible by runing it through light house in devtools.
+  
+      -I confirmed that the colors and fonts chosen are easy to read and accessible by runing it through light house in devtools.
+      
 ![](assets/images/light-house.png)
