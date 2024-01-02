@@ -17,14 +17,15 @@ meeting times , pricing , contact informtaion and sign up form , This site is tr
   * Navigation
   
   
-      - Featured at the top of the page , the navigttion shows the clube name in the left corner :CODING CLUBE that 
-  links to the top of the page.
+     - Featured at the top of the page, the navigation shows the club name in the left corner: "CODING CLUB," which links to the top of the page.
   
-      - The other navigation links are to the right About us , Sign up and Contact us which link to differen sections of the same page.
+     - The other navigation links to the right include "About Us," "Sign Up," and "Contact Us," which link to different sections of the same page.
   
-     -  The Navigation is in a front that looks like code , and a color that contrasts with the background.
+     - The navigation clearly tells the user the name of the club and the website, making the different sections of information easy to find.
   
-     -  the navigation clearly tells the user the name of the club and the website and makes the diffrenet section of information easy to find .
+    - The navigation clearly tells the user the name of the club and the website, making the different sections of information easy to find.
+  
+   - Tested all the navigation menu by clicking on all the navigation elements and scrolling to the correct section.
   
   ![](assets/images/sc1-2.jpg )
 
@@ -33,29 +34,33 @@ meeting times , pricing , contact informtaion and sign up form , This site is tr
 * The header 
 
 
-  * The header shows the name of the club , using the other color chosen : dark orange and continuing the computre code font theme.
-  
-  * The header explaing the club is for kids aged 8 to 18.
-  
-  * This section provides the user with clear information about what the site is and who the clube it is for.
+  * The header shows the name of the club, using the other color chosen: dark orange and continuing the computer code font theme.
+
+  * The header explains the club is for kids aged 8 to 18.
+
+  * This section provides the user with clear information about what the site is and who the club is for.
   
   ![](assets/images/sc1-3.png)
 
 
 * The About Us 
 
-    - The About us section gives details about what the club offers their members , and has a table with the club meeting time.
-  
-    - This seciion shows the user the important information they need to know  about the club : what they offer and when they are open for different age groups.
+  - The "About Us" section gives details about what the club offers its members and has a table with the club meeting times.
+
+  - This section shows the user the important information they need to know about the club: what they offer and when they are open for different age groups.
   
   ![](assets/images/sc1-4.png)
 
 *  The Sign up Form 
-     - The sign up section has a form to collect details from parents to they can sign up to the coding club.
-  
-     - The Form collects the child's name , and Child's age , and parent/guardian's name , and an email address.
-  
-     - The sign up form is valuable to the user as it gives them the ability to sign up to join the Coding Club .
+
+
+     - The "Sign Up" section has a form to collect details from parents so they can sign up for the coding club.
+
+     - The form collects the child's name, child's age, parent/guardian's name, and an email address.
+
+     - The sign-up form is valuable to the user as it gives them the ability to sign up to join the Coding Club.
+
+  * The sign-up form tested child's name, child's age, parent/guardian's name, and an email address, all required and takes me to the codeinstitute page after filling all information.
   
      ![](assets/images/sc1-5.png)
 
@@ -63,11 +68,11 @@ meeting times , pricing , contact informtaion and sign up form , This site is tr
 * The Contact Us section
 
 
-    - The contact us section encourages users to get in contact and provides a phone number , email address and street address where they can be found.
-  
-    - The contact section inculdes social media icons to users can find the coding club on facebook , X and instagram.
-  
-    - The contact section is valuable to the user as it gives them the ability to find and contact the Coding Clube if they need to.
+    - The contact section includes social media icons so users can find the coding club on Facebook, [X], and Instagram.
+
+    - Tested all the social media links by clicking on them one by one. They open a new page and take me to the right platform.
+
+    - The contact section is valuable to the user as it gives them the ability to find and contact the Coding Club if they need to.
   
    ![](assets/images/sc1-6.png)
 
@@ -78,33 +83,37 @@ meeting times , pricing , contact informtaion and sign up form , This site is tr
 ## Testing 
 
 
- * I teated that this page works in different browsers Chrome , Firefox , Safari , Internet Explroer.
-  
- * I confirmed that this project is responsive , looks good and functions on all standard screen sizes use the devtools and device toolbar.
- * I confirmed that the navigation header, about us , sign up , and contact text are all readable and easy to understand.
- * I have confiremd that the form works , requires entries in every field, will only accept an email in the email field.
+* I tested that this page works in different browsers: Chrome, Firefox, Safari, Internet Explorer.
+
+* I confirmed that this project is responsive, looks good, and functions on all standard screen sizes using devtools and the device toolbar.
+
+* I confirmed that the navigation header, "About Us," "Sign Up," and "Contact" text are all readable and easy to understand.
+
+* I have confirmed that the form works, requires entries in every field, and will only accept an email in the email field.
 
 
 ## bugs
 ### Solved bugs 
  
-* When i deployed my project to GitHub pages i discovered my project was broken, the links to the other file (images) did not work.
+ * When I deployed my project to GitHub Pages, I discovered that it was broken. The links to other files, specifically images, did not work. 
   
-* i discovered this was because i had used wrong file paths althought was relative.
+ * I discovered that this was because I had used the wrong file paths, even though they were supposed to be relative.
  
 
 
 ## validator Testing
  * HTML
   
-    - No errors were returned when passing throught officail W3C walidator.
+  * No errors were returned when passing through the official W3C validator.
 
 * CSS 
   
-    -No errors were found when passing through the official (jigsaw)validator.
+    - No errors were found when passing through the official (jigsaw) validator.
 
 * Accessibility 
   
-      -I confirmed that the colors and fonts chosen are easy to read and accessible by runing it through light house in devtools.
+      - I confirmed that the colors and fonts chosen are easy to read and accessible by running it through Lighthouse in DevTools
       
 ![](assets/images/light-house.png)
+
+
