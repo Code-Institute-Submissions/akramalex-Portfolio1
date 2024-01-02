@@ -142,6 +142,6 @@ No unfixed bugs were identified.
 
 ### Media
 
-* The image in the header was taken from [ pexels ](https://www.pexels.com/)
+* The image in the header was taken from [ Pexels ](https://www.pexels.com/)
 
 
